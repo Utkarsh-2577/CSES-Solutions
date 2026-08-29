@@ -7,6 +7,7 @@ My accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), au
 
 | Problem | Category | Solutions |
 | :--- | :--- | :--- |
+| Game Routes | Graph Algorithms | [ C++ ](https://github.com/Utkarsh-2577/CSES-Solutions/blob/main/Graph_Algorithms/Game_Routes/Game_Routes.cpp) |
 | Longest Flight Route | Graph Algorithms | [ C++ ](https://github.com/Utkarsh-2577/CSES-Solutions/blob/main/Graph_Algorithms/Longest_Flight_Route/Longest_Flight_Route.cpp) |
 | Coin Collector | Graph Algorithms | [ C++ ](https://github.com/Utkarsh-2577/CSES-Solutions/blob/main/Graph_Algorithms/Coin_Collector/Coin_Collector.cpp) |
 | Flight Routes Check | Graph Algorithms | [ C++ ](https://github.com/Utkarsh-2577/CSES-Solutions/blob/main/Graph_Algorithms/Flight_Routes_Check/Flight_Routes_Check.cpp) |
