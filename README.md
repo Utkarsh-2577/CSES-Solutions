@@ -7,6 +7,7 @@ My accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), au
 
 | Problem | Category | Solutions |
 | :--- | :--- | :--- |
+| Labyrinth | Graph Algorithms | [ C++ ](https://github.com/Utkarsh-2577/CSES-Solutions/blob/main/Graph_Algorithms/Labyrinth/Labyrinth.cpp) |
 | Road Construction | Graph Algorithms | [ C++ ](https://github.com/Utkarsh-2577/CSES-Solutions/blob/main/Graph_Algorithms/Road_Construction/Road_Construction.cpp) |
 | Flight Discount | Graph Algorithms | [ C++ ](https://github.com/Utkarsh-2577/CSES-Solutions/blob/main/Graph_Algorithms/Flight_Discount/Flight_Discount.cpp) |
 | Game Routes | Graph Algorithms | [ C++ ](https://github.com/Utkarsh-2577/CSES-Solutions/blob/main/Graph_Algorithms/Game_Routes/Game_Routes.cpp) |
