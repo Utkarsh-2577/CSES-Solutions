@@ -46,6 +46,13 @@ void solve(){
  
     vector<int> ans = toposort(adj);
     for(int i = 1; i <= n; i++){
+        if(ans[i] == 0){
+            cout << "IMPOSSIBLE";
+            return;
+        }
+    }
+ 
+    for(int i = 1; i <= n; i++){
         cout << ans[i] << " ";
     }
  
