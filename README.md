@@ -7,6 +7,7 @@ My accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), au
 
 | Problem | Category | Solutions |
 | :--- | :--- | :--- |
+| Subordinates | Tree Algorithms | [ C++ ](https://github.com/Utkarsh-2577/CSES-Solutions/blob/main/Tree_Algorithms/Subordinates/Subordinates.cpp) |
 | Building Roads | Graph Algorithms | [ C++ ](https://github.com/Utkarsh-2577/CSES-Solutions/blob/main/Graph_Algorithms/Building_Roads/Building_Roads.cpp) |
 | Labyrinth | Graph Algorithms | [ C++ ](https://github.com/Utkarsh-2577/CSES-Solutions/blob/main/Graph_Algorithms/Labyrinth/Labyrinth.cpp) |
 | Road Construction | Graph Algorithms | [ C++ ](https://github.com/Utkarsh-2577/CSES-Solutions/blob/main/Graph_Algorithms/Road_Construction/Road_Construction.cpp) |
