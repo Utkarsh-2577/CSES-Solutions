@@ -7,6 +7,7 @@ My accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), au
 
 | Problem | Category | Solutions |
 | :--- | :--- | :--- |
+| Counting Numbers | Dynamic Programming | [ C++ ](https://github.com/Utkarsh-2577/CSES-Solutions/blob/main/Dynamic_Programming/Counting_Numbers/Counting_Numbers.cpp) |
 | Minimal Grid Path | Dynamic Programming | [ C++ ](https://github.com/Utkarsh-2577/CSES-Solutions/blob/main/Dynamic_Programming/Minimal_Grid_Path/Minimal_Grid_Path.cpp) |
 | Tree Diameter | Tree Algorithms | [ C++ ](https://github.com/Utkarsh-2577/CSES-Solutions/blob/main/Tree_Algorithms/Tree_Diameter/Tree_Diameter.cpp) |
 | Subordinates | Tree Algorithms | [ C++ ](https://github.com/Utkarsh-2577/CSES-Solutions/blob/main/Tree_Algorithms/Subordinates/Subordinates.cpp) |
