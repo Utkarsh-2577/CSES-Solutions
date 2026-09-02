@@ -15,37 +15,39 @@ void solve(){
     for(int i = 0; i < n; i++){
         cin >> grid[i];
     }
+ 
+    vector<vector<bool>> dp(n, vector<bool>(n, false));
+    dp[0][0] = true;
+ 
     string ans = "";
     ans += grid[0][0];
-    vector<pair<int, int>> cur;
-    cur.push_back({0, 0});
-    vector<vector<bool>> vis(n, vector<bool>(n, false));
-    vis[0][0] = true;
  
-    for(int step = 0; step < 2*n-2; step++){
+    for(int d = 0; d < 2*n-2; d++){
         char min_char = 'Z'+1;
-        for(auto &[r, c] : cur){
-            if(r+1 < n && grid[r+1][c] < min_char){
-                min_char = grid[r+1][c];
-            }
-            if(c+1 < n && grid[r][c+1] < min_char){
-                min_char = grid[r][c+1];
-            }
+ 
+        for(int r = 0; r < n; r++){
+            int c = d-r;
+            if(c < 0 || c >= n || !dp[r][c]) continue;
+ 
+            if(r+1 < n) min_char = min(min_char, grid[r+1][c]);
+            if(c+1 < n) min_char = min(min_char, grid[r][c+1]);
         }
+ 
         ans += min_char;
-        vector<pair<int, int>> next_cur;
-        for(auto &[r, c] : cur){
-            if(r+1 < n && grid[r+1][c] == min_char && !vis[r+1][c]){
-                vis[r+1][c] = true;
-                next_cur.push_back({r+1, c});
+ 
+        for(int r = 0; r < n; r++){
+            int c = d-r;
+            if(c < 0 || c >= n || !dp[r][c]) continue;
+ 
+            if(r+1 < n && grid[r+1][c] == min_char){
+                dp[r+1][c] = true;
             }
-            if(c+1 < n && grid[r][c+1] == min_char && !vis[r][c+1]){
-                vis[r][c+1] = true;
-                next_cur.push_back({r, c+1});
+            if(c+1 < n && grid[r][c+1] == min_char){
+                dp[r][c+1] = true;
             }
         }
-        cur = move(next_cur);
     }
+ 
     cout << ans << "\n";
 }
  
