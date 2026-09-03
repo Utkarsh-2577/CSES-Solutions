@@ -7,6 +7,7 @@ My accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), au
 
 | Problem | Category | Solutions |
 | :--- | :--- | :--- |
+| Projects | Dynamic Programming | [ C++ ](https://github.com/Utkarsh-2577/CSES-Solutions/blob/main/Dynamic_Programming/Projects/Projects.cpp) |
 | Increasing Subsequence | Dynamic Programming | [ C++ ](https://github.com/Utkarsh-2577/CSES-Solutions/blob/main/Dynamic_Programming/Increasing_Subsequence/Increasing_Subsequence.cpp) |
 | Counting Tilings | Dynamic Programming | [ C++ ](https://github.com/Utkarsh-2577/CSES-Solutions/blob/main/Dynamic_Programming/Counting_Tilings/Counting_Tilings.cpp) |
 | Elevator Rides | Dynamic Programming | [ C++ ](https://github.com/Utkarsh-2577/CSES-Solutions/blob/main/Dynamic_Programming/Elevator_Rides/Elevator_Rides.cpp) |
