@@ -7,6 +7,7 @@ My accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), au
 
 | Problem | Category | Solutions |
 | :--- | :--- | :--- |
+| Counting Tilings | Dynamic Programming | [ C++ ](https://github.com/Utkarsh-2577/CSES-Solutions/blob/main/Dynamic_Programming/Counting_Tilings/Counting_Tilings.cpp) |
 | Elevator Rides | Dynamic Programming | [ C++ ](https://github.com/Utkarsh-2577/CSES-Solutions/blob/main/Dynamic_Programming/Elevator_Rides/Elevator_Rides.cpp) |
 | Removal Game | Dynamic Programming | [ C++ ](https://github.com/Utkarsh-2577/CSES-Solutions/blob/main/Dynamic_Programming/Removal_Game/Removal_Game.cpp) |
 | Money Sums | Dynamic Programming | [ C++ ](https://github.com/Utkarsh-2577/CSES-Solutions/blob/main/Dynamic_Programming/Money_Sums/Money_Sums.cpp) |
