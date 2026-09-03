@@ -26,7 +26,7 @@ void precompute(int row, int current_mask, int next_mask, vector<int> &next_stat
 }
  
 void solve(){
-    int n, m;
+    int m;
     cin >> n >> m;
  
     vector<vector<int>> dp(m+1, vector<int>((1 << n), 0));
