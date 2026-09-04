@@ -7,6 +7,7 @@ My accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), au
 
 | Problem | Category | Solutions |
 | :--- | :--- | :--- |
+| Mountain Range | Dynamic Programming | [ C++ ](https://github.com/Utkarsh-2577/CSES-Solutions/blob/main/Dynamic_Programming/Mountain_Range/Mountain_Range.cpp) |
 | Longest Common Subsequence | Dynamic Programming | [ C++ ](https://github.com/Utkarsh-2577/CSES-Solutions/blob/main/Dynamic_Programming/Longest_Common_Subsequence/Longest_Common_Subsequence.cpp) |
 | Projects | Dynamic Programming | [ C++ ](https://github.com/Utkarsh-2577/CSES-Solutions/blob/main/Dynamic_Programming/Projects/Projects.cpp) |
 | Increasing Subsequence | Dynamic Programming | [ C++ ](https://github.com/Utkarsh-2577/CSES-Solutions/blob/main/Dynamic_Programming/Increasing_Subsequence/Increasing_Subsequence.cpp) |
